@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\candidate\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\core\\dtos\\candidate\\candidategetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|c:\\users\\freda\\desktop\\programmingproject\\resumemanagment\\backend\\backend\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE089154-C87E-4475-A04B-B5237C143EA5}|backend\\backend.csproj|solutionrelative:backend\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CandidateCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\DTOs\\Candidate\\CandidateCreateDTO.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\DTOs\\Candidate\\CandidateCreateDTO.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\DTOs\\Candidate\\CandidateCreateDTO.cs",
+              "RelativeToolTip": "backend\\Core\\DTOs\\Candidate\\CandidateCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:50:53.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\Core\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:16:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:11:01.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\DTOs\\Candidate\\CandidateGetDTO.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\DTOs\\Candidate\\CandidateGetDTO.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\DTOs\\Candidate\\CandidateGetDTO.cs",
+              "RelativeToolTip": "backend\\Core\\DTOs\\Candidate\\CandidateGetDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:02:50.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:36:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Controllers\\JobController.cs",
+              "RelativeToolTip": "backend\\Controllers\\JobController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:36:11.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "backend\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:07:21.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:26:50.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "backend\\Core\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\freda\\Desktop\\ProgrammingProject\\ResumeManagment\\backend\\backend\\Core\\Entities\\Candidate.cs",
+              "RelativeToolTip": "backend\\Core\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:45:51.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
