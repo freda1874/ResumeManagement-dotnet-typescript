@@ -39,7 +39,8 @@ Theme Toggling: Users can switch between Dark and Light modes
 - ORM
 - Http Methods
 - AutoMapper
-- Entities Relationtions 
+- Entities Relationtions
+  
 **Frontend**
 - Nested Routing
 - useState
