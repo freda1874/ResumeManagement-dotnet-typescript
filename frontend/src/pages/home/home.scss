@@ -1,0 +1,13 @@
+@import "../../mixins";
+
+.home {
+  .box {
+    @include d-flex(row, space-around, top);
+    width: 50%;
+  }
+
+  * {
+    color: var(--text-color1);
+    width: 80%;
+  }
+}
